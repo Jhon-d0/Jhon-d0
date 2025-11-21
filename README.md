@@ -8,7 +8,7 @@
 
 ## 📈 Análises do Github
 
-<div align="center">
+<div align="center" style="display: flex">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jhon-d0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhon-d0&layout=compact&theme=tokyonight"/>
 </div>
