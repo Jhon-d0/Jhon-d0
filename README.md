@@ -4,15 +4,27 @@
   Transformando problemas complexos em soluções inteligentes, funcionais e de alta performance.
 </h1>
 
----
+### ⚙️ GitHub Analise
 
-## 📈 Análises do Github
-
-<div align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jhon-d0&layout=compact&theme=tokyonight"/>
-</div>
-
----
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDavid&hide_progress=true&theme=tokyonight"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=JoaoDavid&show_icons=true&theme=tokyonight"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 [![João David's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jhon-d0&bg_color=0d1117&color=00aaff&text_color=00aaff&line=00aaff&point=00aaff&area=true&line_width=3&hide_border=true&title_color=00aaff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
