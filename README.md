@@ -1,34 +1,17 @@
-<h2 align="center" style="font-size: 32px, color:#00aaff">Olá! Eu sou o João David 👋</h2>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=%20Hi,%20I%20am%20Jhon%20Dev&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
 <h1 align="center" style="font-size: 24px, color:#00aaff">
-  Transformando problemas complexos em soluções inteligentes, funcionais e de alta performance.
+   Transformando problemas complexos em soluções inteligentes, funcionais e de alta performance.
 </h1>
 
-### ⚙️ GitHub Analise
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDavid&hide_progress=true&theme=tokyonight"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=JoaoDavid&show_icons=true&theme=tokyonight"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<div  align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
 
-[![João David's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jhon-d0&bg_color=0d1117&color=00aaff&text_color=00aaff&line=00aaff&point=00aaff&area=true&line_width=3&hide_border=true&title_color=00aaff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+######
 
-<div align="center">
+<div margin-top="100px" align="center">
 
 <a href="mailto:joaodavidmachado73@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white">
@@ -42,7 +25,7 @@
 
 ---
 
-## 🔧 Tecnologias que utilizo
+### 🔧 Tecnologias que utilizo
 
 <div style="display: inline_block" align="center"><br>
 
@@ -66,10 +49,21 @@
 
 ---
 
-## 📚 Atualmente estudando
+### 📚 Atualmente estudando
 
 <div style="display: inline_block" align="center"><br>
   <img alt="Angular" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img alt="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 
+---
+
+### ✍️ 
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
+</p>
+
+###
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&section=footer&text=Obrigado%20pela%20Visita%20👋🏻&fontSize=40&fontColor=61DAFB&animation=twinkling" />
